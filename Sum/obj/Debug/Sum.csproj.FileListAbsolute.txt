@@ -1,0 +1,7 @@
+C:\Users\lcv06\OneDrive\Desktop\Sum\Sum\bin\Debug\Sum.exe.config
+C:\Users\lcv06\OneDrive\Desktop\Sum\Sum\bin\Debug\Sum.exe
+C:\Users\lcv06\OneDrive\Desktop\Sum\Sum\bin\Debug\Sum.pdb
+C:\Users\lcv06\OneDrive\Desktop\Sum\Sum\obj\Debug\Sum.csprojAssemblyReference.cache
+C:\Users\lcv06\OneDrive\Desktop\Sum\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\lcv06\OneDrive\Desktop\Sum\Sum\obj\Debug\Sum.exe
+C:\Users\lcv06\OneDrive\Desktop\Sum\Sum\obj\Debug\Sum.pdb
